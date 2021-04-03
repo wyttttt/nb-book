@@ -1,0 +1,24 @@
+{
+  "name": "nb-book",
+  "version": "1.0.0",
+  "description": "a gitbook demo",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "gitbook-cli": "^2.3.2"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wyttttt/nb-book.git"
+  },
+  "keywords": [],
+  "author": "wyttttt",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/wyttttt/nb-book/issues"
+  },
+  "homepage": "https://github.com/wyttttt/nb-book#readme"
+}
